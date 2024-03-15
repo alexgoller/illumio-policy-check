@@ -39,4 +39,6 @@
 
 6. Help:
 
-./policy_check.py --help
+    ```
+    ./policy_check.py --help
+    ```
